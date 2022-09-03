@@ -1,6 +1,6 @@
 # Programming Languages: Part A
 
-## What is it for ?
+## What is it for?
 
 ✅ Serves as a repository for Programming Languages: Part A's source code.
 
