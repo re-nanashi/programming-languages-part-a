@@ -2,7 +2,7 @@
 
 ## What is it for ?
 
-✅ Serves as a repository for Programming Languages: Part A's lesson's source code.
+✅ Serves as a repository for Programming Languages: Part A's source code.
 
 ✅ Serves as a repository for my homework answers.
 
